@@ -1,0 +1,2 @@
+Hello, this is Python file handling.
+Writing multiple lines!
